@@ -5,4 +5,5 @@ window.onload = function(){
 	console.log(9)
 	
 	console.log(0 )
+	console.log(0)
 }
