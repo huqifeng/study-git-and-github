@@ -10,4 +10,5 @@ window.onload = function(){
 	console.log('.as')
 	console.log('.as2')
 	console.log('.as2')
+	console.log('a')
 }
