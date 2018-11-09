@@ -11,4 +11,6 @@ window.onload = function(){
 	console.log('.as2')
 	console.log('.as2')
 	console.log('a')
+
+	console.log('20181109');
 }
